@@ -1,6 +1,9 @@
  # Introduction
 Appd instrumentaion to monitor Py-flask app using gunicorn.
 
+**Pre-requisites**:
+Install docker
+
 ## How to use
 
 1. Download & unzip py-gunicorn-appd.zip
@@ -8,9 +11,6 @@ Appd instrumentaion to monitor Py-flask app using gunicorn.
 3. ```shell
     docker build . -t guni/hello-world
    ```
-
-**Pre-requisites**:
-Install docker
 
 ## How to Run
 Once build is done, you can then start the container with:  
