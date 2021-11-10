@@ -1,5 +1,5 @@
  # Introduction
-Appd instrumentaion to monitor Py-flask app using gunicorn.
+Appd instrumentation to monitor a Py-flask app running using gunicorn.
 
 **Pre-requisites**:
 Install docker
